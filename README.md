@@ -13,3 +13,5 @@ https://www.cnblogs.com/sinsenliu/p/8883525.html         crt保存日志
 https://blog.csdn.net/ZongYinHu/article/details/50812457   2标准出错   2>log.txt
 
 {"device_id":2,"token":"E27C69A70B6BB07A7203FFD02968AD24D7A9","latest_version":"","address":"","ip":null,"update_version":null}
+
+https://zhidao.baidu.com/question/476004959.html  \x转义字符  ASCILL码
