@@ -15,3 +15,4 @@ https://blog.csdn.net/ZongYinHu/article/details/50812457   2标准出错   2>log
 {"device_id":2,"token":"E27C69A70B6BB07A7203FFD02968AD24D7A9","latest_version":"","address":"","ip":null,"update_version":null}
 
 https://zhidao.baidu.com/question/476004959.html  \x转义字符  ASCILL码
+https://baike.baidu.com/item/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84/8168543?fr=aladdin 二维数组
