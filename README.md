@@ -12,4 +12,4 @@ https://blog.csdn.net/ZongYinHu/article/details/50812457   2标准出错   2>log
 https://zhidao.baidu.com/question/476004959.html  \x转义字符  ASCILL码
 https://baike.baidu.com/item/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84/8168543?fr=aladdin 二维数组
 https://www.cnblogs.com/deng-tao/p/6004280.html spi demo
-
+https://blog.csdn.net/niyaozuozuihao/article/details/91802994  gdb调试方法
