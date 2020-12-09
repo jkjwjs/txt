@@ -15,3 +15,4 @@ https://www.cnblogs.com/deng-tao/p/6004280.html spi demo
 https://blog.csdn.net/niyaozuozuihao/article/details/91802994  gdb调试方法
 https://www.cnblogs.com/zhanghengscnc/p/8585403.html JSON详解
 https://processon.com/diagrams    流程图工具
+https://www.wenjiangs.com/doc/76qdq2mt freertos中文文档
