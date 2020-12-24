@@ -18,3 +18,4 @@ https://processon.com/diagrams    流程图工具
 https://www.wenjiangs.com/doc/76qdq2mt freertos中文文档
 https://blog.csdn.net/weixin_43907802/article/details/84877393  源码反码补码解释
 http://blog.chinaunix.net/uid-23770712-id-3307050.html   USB解析
+https://www.cnblogs.com/zhugeanran/p/9289896.html 上拉电阻和下拉电阻
