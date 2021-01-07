@@ -19,3 +19,4 @@ https://www.wenjiangs.com/doc/76qdq2mt freertos中文文档
 https://blog.csdn.net/weixin_43907802/article/details/84877393  源码反码补码解释
 http://blog.chinaunix.net/uid-23770712-id-3307050.html   USB解析
 https://www.cnblogs.com/zhugeanran/p/9289896.html 上拉电阻和下拉电阻
+http://c.biancheng.net/view/143.html  C89（C90）、C99、C11——C语言的三套标准
