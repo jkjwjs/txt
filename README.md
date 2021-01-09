@@ -21,3 +21,4 @@ http://blog.chinaunix.net/uid-23770712-id-3307050.html   USB解析
 https://www.cnblogs.com/zhugeanran/p/9289896.html 上拉电阻和下拉电阻
 http://c.biancheng.net/view/143.html  C89（C90）、C99、C11——C语言的三套标准
 https://www.cnblogs.com/fortunely/p/9490979.html C 如何判断编译器是否支持C90 C99？
+https://blog.csdn.net/qq_41179988/article/details/85676362  spi i2c uart区别
