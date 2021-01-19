@@ -24,3 +24,4 @@ https://www.cnblogs.com/fortunely/p/9490979.html C 如何判断编译器是否�
 https://blog.csdn.net/qq_41179988/article/details/85676362  spi i2c uart区别
 https://salttiger.com/      每天更新一本书
 https://github.com/wangmu89/Book-CSAPP  CSAPP
+https://blog.csdn.net/quanyy052014/article/details/82120056 C语言日志调试宏
