@@ -25,3 +25,5 @@ https://blog.csdn.net/qq_41179988/article/details/85676362  spi i2c uart区别
 https://salttiger.com/      每天更新一本书
 https://github.com/wangmu89/Book-CSAPP  CSAPP
 https://blog.csdn.net/quanyy052014/article/details/82120056 C语言日志调试宏
+https://blog.csdn.net/weixin_42942530/article/details/104975316  读取esp32内存信息
+https://www.zhihu.com/question/39169728/answer/1653954976  C++开源项目
