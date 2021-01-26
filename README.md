@@ -30,3 +30,4 @@ https://www.zhihu.com/question/39169728/answer/1653954976  C++开源项目
 https://blog.csdn.net/tunqimai9331/article/details/95938903 全志F1C200s芯片处理器参数介绍
 https://www.cnblogs.com/dpf-learn/p/6109012.html char和unsigned char--数据类型区别
 https://www.runoob.com/cplusplus/cpp-polymorphism.html C++ 多态
+https://www.linuxrumen.com/cyml/1667.html   sigkill SIGTERM
