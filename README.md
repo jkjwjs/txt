@@ -32,3 +32,4 @@ https://www.cnblogs.com/dpf-learn/p/6109012.html char和unsigned char--数据类
 https://www.runoob.com/cplusplus/cpp-polymorphism.html C++ 多态
 https://www.linuxrumen.com/cyml/1667.html   sigkill SIGTERM的区别
 https://blog.csdn.net/zztiger123/article/details/106189170  查看freertos任务占用
+https://blog.csdn.net/z5z5z5z56/article/details/107737488 IPC消息队列
