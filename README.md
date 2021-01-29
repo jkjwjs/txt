@@ -34,4 +34,5 @@ https://www.linuxrumen.com/cyml/1667.html   sigkill SIGTERM的区别
 https://blog.csdn.net/zztiger123/article/details/106189170  查看freertos任务占用
 https://blog.csdn.net/z5z5z5z56/article/details/107737488 IPC消息队列
 https://www.linuxprobe.com/linux-process-method.html IPC 6种进程通信方式
-https://jingyan.baidu.com/article/c33e3f48cf7cf9ea15cbb50f.html git搭建主页博客
+https://jingyan.baidu.com/article/c33e3f48cf7cf9ea15cbb50f.html git搭建主页博客.
+https://www.jianshu.com/p/f82c76b90336   搭建Github Page网站
