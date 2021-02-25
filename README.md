@@ -41,3 +41,9 @@ https://blog.csdn.net/jiangnanyouzi/article/details/3720807?utm_medium=distribut
 https://www.runoob.com/cplusplus/cpp-inheritance.html C++继承访问控制和继承类型 继承类型会影响子类的对外访问属性
 https://www.cnblogs.com/yangguang-it/p/6547314.html  声明了虚函数会有vptr指针
 
+一个派生类继承了所有的基类方法，但下列情况除外：
+
+基类的构造函数、析构函数和拷贝构造函数。
+基类的重载运算符。
+基类的友元函数。
+
