@@ -37,6 +37,6 @@ https://www.linuxprobe.com/linux-process-method.html IPC 6种进程通信方式
 https://jingyan.baidu.com/article/c33e3f48cf7cf9ea15cbb50f.html git搭建主页博客.
 https://www.jianshu.com/p/f82c76b90336   搭建Github Page网站
 https://zhidao.baidu.com/question/429901771.html  https://www.cnblogs.com/hesper/p/10738965.html 守护进程为什么要改变目录
-https://blog.csdn.net/jiangnanyouzi/article/details/3720807?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=f211ecdb-e6e5-414b-a24c-0751b0259502&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control C++虚函数继承 纯虚函数 
+https://blog.csdn.net/jiangnanyouzi/article/details/3720807?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=f211ecdb-e6e5-414b-a24c-0751b0259502&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control   https://www.runoob.com/cplusplus/cpp-polymorphism.html C++虚函数继承 纯虚函数 
 
 
