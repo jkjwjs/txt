@@ -47,5 +47,5 @@ https://www.runoob.com/cplusplus/cpp-inheritance.html C++继承访问控制和�
 https://www.cnblogs.com/yangguang-it/p/6547314.html  声明了虚函数会有vptr指针
 
 https://zhidao.baidu.com/question/1822134520430420108.html VS STUDIO调试逐语句和逐过程的区别
-
+https://blog.csdn.net/mohuan301/article/details/83746943 为什么需要虚析构函数 
 
