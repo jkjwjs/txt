@@ -48,4 +48,4 @@ https://www.cnblogs.com/yangguang-it/p/6547314.html  声明了虚函数会有vpt
 
 https://zhidao.baidu.com/question/1822134520430420108.html VS STUDIO调试逐语句和逐过程的区别
 https://blog.csdn.net/mohuan301/article/details/83746943 为什么需要虚析构函数 
-
+https://www.stroustrup.com/bs_faq2.html#pointers-and-references 作者回答 C++引用和指针为什么会同时存在
