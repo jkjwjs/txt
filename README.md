@@ -49,6 +49,7 @@ https://www.cnblogs.com/yangguang-it/p/6547314.html  声明了虚函数会有vpt
 https://zhidao.baidu.com/question/1822134520430420108.html VS STUDIO调试逐语句和逐过程的区别
 https://blog.csdn.net/mohuan301/article/details/83746943 为什么需要虚析构函数 
 https://www.stroustrup.com/bs_faq2.html#pointers-and-references 作者回答 C++引用和指针为什么会同时存在
-
+https://www.jianshu.com/p/479333cbccc4  编程指北简书 
 https://blog.csdn.net/zhangjiahao14/article/details/80554616 更换阿里源
 https://blog.csdn.net/sun927/article/details/46593129 Linux执行可执行文件提示No such file or directory的解决方法 安装32位库
+
