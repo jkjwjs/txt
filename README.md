@@ -53,3 +53,5 @@ https://www.jianshu.com/p/479333cbccc4  编程指北简书
 https://blog.csdn.net/zhangjiahao14/article/details/80554616 更换阿里源
 https://blog.csdn.net/sun927/article/details/46593129 Linux执行可执行文件提示No such file or directory的解决方法 安装32位库
 https://blog.csdn.net/weixin_41190227/article/details/86600821 各种排序算法
+https://blog.csdn.net/tfygg/article/details/46619115?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&dist_request_id=1328767.57978.16176036175985265&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control
+UNIX/Linux/BSD、POSIX、GNU
