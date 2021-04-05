@@ -55,3 +55,4 @@ https://blog.csdn.net/sun927/article/details/46593129 Linux执行可执行文件
 https://blog.csdn.net/weixin_41190227/article/details/86600821 各种排序算法
 https://blog.csdn.net/tfygg/article/details/46619115?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&dist_request_id=1328767.57978.16176036175985265&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control
 UNIX/Linux/BSD、POSIX、GNU
+http://blog.sina.cn/dpool/blog/s/blog_c44ac64f01030b8v.html  ANSIC、ISOC、GNUC、POSIXC区别
