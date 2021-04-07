@@ -57,3 +57,4 @@ https://blog.csdn.net/tfygg/article/details/46619115?utm_medium=distribute.pc_re
 UNIX/Linux/BSD、POSIX、GNU
 http://blog.sina.cn/dpool/blog/s/blog_c44ac64f01030b8v.html  ANSIC、ISOC、GNUC、POSIXC区别
 http://blog.sina.com.cn/s/blog_5693bdca0100wgb9.html 预编译输出文件的格式 
+https://www.zhihu.com/question/24345678 白盒测试 黑盒测试 单例测试区别
