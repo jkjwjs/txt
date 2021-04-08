@@ -59,5 +59,5 @@ http://blog.sina.cn/dpool/blog/s/blog_c44ac64f01030b8v.html  ANSIC、ISOC、GNUC
 http://blog.sina.com.cn/s/blog_5693bdca0100wgb9.html 预编译输出文件的格式 
 https://www.zhihu.com/question/24345678 白盒测试 黑盒测试 单例测试区别
 https://blog.csdn.net/dengjin20104042056/article/details/88975907 qt5.12安装教程
-https://blog.csdn.net/weixin_38391755/article/details/80380786/  makefile编写详细
+https://blog.csdn.net/haoel/article/details/2886/  makefile编写详细
 
