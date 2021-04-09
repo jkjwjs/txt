@@ -61,3 +61,4 @@ https://www.zhihu.com/question/24345678 白盒测试 黑盒测试 单例测试�
 https://blog.csdn.net/dengjin20104042056/article/details/88975907 qt5.12安装教程
 https://blog.csdn.net/weixin_38391755/article/details/80380786/  makefile编写详细
 https://blog.csdn.net/foooooods/article/details/80259395 静态库和共享库
+https://blog.csdn.net/u011402017/article/details/53747232 带缓冲IO和不带缓冲IO的区别
