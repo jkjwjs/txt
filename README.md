@@ -64,3 +64,4 @@ https://blog.csdn.net/foooooods/article/details/80259395 静态库和共享库
 https://blog.csdn.net/u011402017/article/details/53747232 带缓冲IO和不带缓冲IO的区别
 
 https://blog.csdn.net/diediexiaomi/article/details/76862248  perror和strerror的使用和区别
+https://www.runoob.com/linux/linux-system-contents.html  linux系统目录结构
