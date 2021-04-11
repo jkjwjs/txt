@@ -65,3 +65,4 @@ https://blog.csdn.net/u011402017/article/details/53747232 带缓冲IO和不带�
 
 https://blog.csdn.net/diediexiaomi/article/details/76862248  perror和strerror的使用和区别
 https://www.runoob.com/linux/linux-system-contents.html  linux系统目录结构
+https://www.cnblogs.com/sparkdev/p/9694103.html Linux 用户身份与进程权限
