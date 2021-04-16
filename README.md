@@ -68,3 +68,4 @@ https://www.runoob.com/linux/linux-system-contents.html  linux系统目录结构
 https://www.cnblogs.com/sparkdev/p/9694103.html Linux 用户身份与进程权限
 https://blog.csdn.net/u012317833/article/details/39476831 sysconf()、pathconf()和fpathconf()函数
 https://blog.csdn.net/u013961718/article/details/51571091 重定向详解
+https://blog.csdn.net/abcd1f2/article/details/49820889 open函数中参数选项O_EXCL解析
