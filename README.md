@@ -69,3 +69,4 @@ https://www.cnblogs.com/sparkdev/p/9694103.html Linux 用户身份与进程权�
 https://blog.csdn.net/u012317833/article/details/39476831 sysconf()、pathconf()和fpathconf()函数
 https://blog.csdn.net/u013961718/article/details/51571091 重定向详解
 https://blog.csdn.net/abcd1f2/article/details/49820889 open函数中参数选项O_EXCL解析
+https://blog.csdn.net/ZWE7616175/article/details/80600828  高级IO中的一些重要的概念（fcntl、dup、dup2）
