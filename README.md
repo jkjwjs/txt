@@ -70,3 +70,4 @@ https://blog.csdn.net/u012317833/article/details/39476831 sysconf()、pathconf()
 https://blog.csdn.net/u013961718/article/details/51571091 重定向详解
 https://blog.csdn.net/abcd1f2/article/details/49820889 open函数中参数选项O_EXCL解析
 https://blog.csdn.net/ZWE7616175/article/details/80600828  高级IO中的一些重要的概念（fcntl、dup、dup2）
+https://blog.csdn.net/darkdragonking/article/details/54311135 软件概要设计和详细设计的区别
