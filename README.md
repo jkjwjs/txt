@@ -72,3 +72,11 @@ https://blog.csdn.net/abcd1f2/article/details/49820889 open函数中参数选项
 https://blog.csdn.net/ZWE7616175/article/details/80600828  高级IO中的一些重要的概念（fcntl、dup、dup2）
 https://blog.csdn.net/darkdragonking/article/details/54311135 软件概要设计和详细设计的区别
 https://www.cnblogs.com/zl1991/p/10288291.html O_DIRECT与O_SYNC区别（转）
+https://www.cnblogs.com/embedded-linux/p/6753617.html 使用FD_CLOEXEC实现close-on-exec，关闭子进程无用文件描述符
+https://blog.csdn.net/adlatereturn/article/details/104281403  对于dup2(fd,1)的理解
+
+https://blog.csdn.net/jiayu5100687/article/details/80524301  proteus安装文档
+
+https://blog.csdn.net/u010961759/article/details/40075929            FileZilla连接虚拟机ubuntu
+https://mirrors.tuna.tsinghua.edu.cn/qt/official_releases/qt/5.12/5.12.9/single  清华镜像站下载QT
+
