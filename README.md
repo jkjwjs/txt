@@ -79,4 +79,5 @@ https://blog.csdn.net/jiayu5100687/article/details/80524301  proteus安装文档
 
 https://blog.csdn.net/u010961759/article/details/40075929            FileZilla连接虚拟机ubuntu
 https://mirrors.tuna.tsinghua.edu.cn/qt/official_releases/qt/5.12/5.12.9/single  清华镜像站下载QT
-
+https://doc.qt.io/qt-5/qwidget.html#details  Qt文档  Qt 5.15 Qt小部件 C ++类 Q小部件
+http://www.openedv.com/forum.php?mod=viewthread&tid=319079&highlight=qt%2B%B5%E3%B5%C6   正点原子QT控制IO
