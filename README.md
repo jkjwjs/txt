@@ -83,3 +83,4 @@ https://doc.qt.io/qt-5/qwidget.html#details  Qt文档  Qt 5.15 Qt小部件 C ++�
 http://www.openedv.com/forum.php?mod=viewthread&tid=319079&highlight=qt%2B%B5%E3%B5%C6   正点原子QT控制IO
 https://blog.csdn.net/qq_42748213/article/details/90486054 KEIL ARM
 https://blog.csdn.net/ingener/article/details/84299059 51外部中断和定时器的区别
+https://blog.csdn.net/baidu_37366055/article/details/80060962 GPIO各种类型
