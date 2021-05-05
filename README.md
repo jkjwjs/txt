@@ -86,3 +86,4 @@ https://blog.csdn.net/ingener/article/details/84299059 51外部中断和定时�
 https://blog.csdn.net/baidu_37366055/article/details/80060962 GPIO各种类型
 https://blog.csdn.net/impossible1224/article/details/80655292 开漏输出和推免输出
 https://zhidao.baidu.com/question/436188175.html  ds1302怎么接线
+https://blog.csdn.net/dpjcn1990/article/details/92831545 深入学习RTC时钟库 1302
