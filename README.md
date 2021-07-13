@@ -97,3 +97,4 @@ https://blog.csdn.net/anxianfeng55555/article/details/80908795 MQTT协议详解
  https://blog.csdn.net/xh870189248/article/details/106419296 小程序实现颜色采集器
  https://stubbornhuang.blog.csdn.net/article/details/118003911 UI框架库选择
 https://haokan.baidu.com/author/1658880747111569  电脑电子
+https://blog.csdn.net/qq_45264808/article/details/111063501 STM32 HAL 和 SPL开发区别
