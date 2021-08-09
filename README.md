@@ -99,3 +99,4 @@ https://blog.csdn.net/anxianfeng55555/article/details/80908795 MQTT协议详解
 https://haokan.baidu.com/author/1658880747111569  电脑电子
 https://blog.csdn.net/qq_45264808/article/details/111063501 STM32 HAL 和 SPL开发区别
 https://www.cirmall.com/articles/35931/ 电路城开源方案
+http://www.semiee.com/ 查芯片资料神奇
