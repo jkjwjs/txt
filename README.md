@@ -101,3 +101,4 @@ https://blog.csdn.net/qq_45264808/article/details/111063501 STM32 HAL 和 SPL开
 https://www.cirmall.com/articles/35931/ 电路城开源方案
 http://www.semiee.com/ 查芯片资料神奇
 https://www.cnblogs.com/taizihui/p/14151010.html  I2C主从模式区别
+http://c.biancheng.net/view/3670.html  linux挂载U盘
