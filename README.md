@@ -103,3 +103,4 @@ http://www.semiee.com/ 查芯片资料神奇
 https://www.cnblogs.com/taizihui/p/14151010.html  I2C主从模式区别
 http://c.biancheng.net/view/3670.html  linux挂载U盘
 https://blog.csdn.net/weed_hz/article/details/19078969 linux挂载U盘
+https://blog.csdn.net/kinbo88/article/details/39479463  读取U盘大小
