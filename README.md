@@ -104,7 +104,8 @@ https://www.cnblogs.com/taizihui/p/14151010.html  I2C主从模式区别
 http://c.biancheng.net/view/3670.html  linux挂载U盘
 https://blog.csdn.net/weed_hz/article/details/19078969 linux挂载U盘
 https://blog.csdn.net/kinbo88/article/details/39479463  读取U盘大小
-https://blog.csdn.net/qq_39048131/article/details/122679651 Linux网络编程——Unix本地套接字
+https://blog.csdn.net/qq_39048131/article/details/122679651 海思vpss
+https://blog.csdn.net/Nuan_Feng/article/details/108810569?spm=1001.2014.3001.5502 Linux网络编程——Unix本地套接字
 https://www.esp32.com/viewtopic.php?p=92074 github拉取esp-who报错
 https://blog.csdn.net/dlf1769/article/details/79429116 inet_aton、inet_addr和inet_ntoa区别
 https://blog.csdn.net/qingkongyeyue/article/details/52921530 ntohs, ntohl, htons,htonl的比较和详解
