@@ -106,3 +106,4 @@ https://blog.csdn.net/weed_hz/article/details/19078969 linux挂载U盘
 https://blog.csdn.net/kinbo88/article/details/39479463  读取U盘大小
 https://blog.csdn.net/qq_39048131/article/details/122679651 Linux网络编程——Unix本地套接字
 https://www.esp32.com/viewtopic.php?p=92074 github拉取esp-who报错
+https://blog.csdn.net/dlf1769/article/details/79429116 inet_aton、inet_addr和inet_ntoa区别
