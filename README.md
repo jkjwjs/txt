@@ -110,3 +110,4 @@ https://blog.csdn.net/dlf1769/article/details/79429116 inet_aton、inet_addr和i
 https://blog.csdn.net/qingkongyeyue/article/details/52921530 ntohs, ntohl, htons,htonl的比较和详解
 https://blog.csdn.net/okhymok/article/details/77745123 LINUX下 Udev详解
 https://www.cnblogs.com/liuyong/archive/2011/07/01/2095487.html TCP长连接与短连接的区别
+https://blog.csdn.net/gladyoucame/article/details/8768731 整理：Linux网络编程之sockaddr与sockaddr_in,sockaddr_un结构体详细讲解
