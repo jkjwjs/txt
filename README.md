@@ -108,3 +108,4 @@ https://blog.csdn.net/qq_39048131/article/details/122679651 Linux网络编程—
 https://www.esp32.com/viewtopic.php?p=92074 github拉取esp-who报错
 https://blog.csdn.net/dlf1769/article/details/79429116 inet_aton、inet_addr和inet_ntoa区别
 https://blog.csdn.net/qingkongyeyue/article/details/52921530 ntohs, ntohl, htons,htonl的比较和详解
+https://blog.csdn.net/okhymok/article/details/77745123 LINUX下 Udev详解
