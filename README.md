@@ -114,3 +114,4 @@ https://www.cnblogs.com/liuyong/archive/2011/07/01/2095487.html TCP长连接与�
 https://blog.csdn.net/gladyoucame/article/details/8768731 整理：Linux网络编程之sockaddr与sockaddr_in,sockaddr_un结构体详细讲解
 zh.b-ok.com 电子书下载网站
 https://blog.csdn.net/pl0020/article/details/104813884 C语言各类位操作用法
+https://blog.csdn.net/qq_39654127/article/details/81988281 信号与槽的连接方式
