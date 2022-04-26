@@ -117,3 +117,4 @@ https://blog.csdn.net/pl0020/article/details/104813884 C语言各类位操作用
 https://blog.csdn.net/qq_39654127/article/details/81988281 信号与槽的连接方式
 https://blog.csdn.net/ljsant/article/details/118827657 QT中connect函数的几种用法详解总结
 https://www.xyhtml5.com/22596.html LVGL CODE block
+https://blog.csdn.net/heng000000/article/details/120930239 makefile通俗易懂
