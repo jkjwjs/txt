@@ -119,3 +119,4 @@ https://blog.csdn.net/ljsant/article/details/118827657 QT中connect函数的几�
 https://www.xyhtml5.com/22596.html LVGL CODE block
 https://blog.csdn.net/heng000000/article/details/120930239 makefile通俗易懂
 https://blog.csdn.net/dlf1769/article/details/78997967 makefile
+https://blog.csdn.net/qq_39842609/article/details/122274827 SCCB协议
