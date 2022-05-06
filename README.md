@@ -122,3 +122,4 @@ https://blog.csdn.net/dlf1769/article/details/78997967 makefile
 https://blog.csdn.net/qq_39842609/article/details/122274827 SCCB协议
 https://blog.csdn.net/lbaihao/article/details/121166432 SCCB 和 I2C的区别
 https://blog.csdn.net/u013295518/article/details/90273899?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-1.no_search_link&spm=1001.2101.3001.4242.2 【FFmpeg】Windows下编译ffmpeg，链接libx264静态库
+https://www.jianshu.com/p/c77e28a81708 Qt invokeMethod 异步调用
