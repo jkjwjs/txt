@@ -124,3 +124,4 @@ https://blog.csdn.net/lbaihao/article/details/121166432 SCCB 和 I2C的区别
 https://blog.csdn.net/u013295518/article/details/90273899?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-1.no_search_link&spm=1001.2101.3001.4242.2 【FFmpeg】Windows下编译ffmpeg，链接libx264静态库
 https://www.jianshu.com/p/c77e28a81708 Qt invokeMethod 异步调用
 https://blog.csdn.net/dyx1993/article/details/113737663 I2C总线协议/地址详解
+https://www.bilibili.com/video/BV1pa4y1p7YD?spm_id_from=333.337.search-card.all.click QT学习视频
