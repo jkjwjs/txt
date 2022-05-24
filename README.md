@@ -126,3 +126,4 @@ https://www.jianshu.com/p/c77e28a81708 Qt invokeMethod 异步调用
 https://blog.csdn.net/dyx1993/article/details/113737663 I2C总线协议/地址详解
 https://www.bilibili.com/video/BV1pa4y1p7YD?spm_id_from=333.337.search-card.all.click QT学习视频
 https://blog.csdn.net/wltsysterm/article/details/104471900 QMainWindow和QWidget的区别
+https://blog.csdn.net/fukangwei_lite/article/details/118068072 QT定时器
