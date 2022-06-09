@@ -127,3 +127,4 @@ https://blog.csdn.net/dyx1993/article/details/113737663 I2C总线协议/地址�
 https://www.bilibili.com/video/BV1pa4y1p7YD?spm_id_from=333.337.search-card.all.click QT学习视频
 https://blog.csdn.net/wltsysterm/article/details/104471900 QMainWindow和QWidget的区别
 https://blog.csdn.net/fukangwei_lite/article/details/118068072 QT定时器
+https://blog.csdn.net/qq_26549153/article/details/119971746 流程图各个形状
