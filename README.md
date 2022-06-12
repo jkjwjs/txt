@@ -128,3 +128,4 @@ https://www.bilibili.com/video/BV1pa4y1p7YD?spm_id_from=333.337.search-card.all.
 https://blog.csdn.net/wltsysterm/article/details/104471900 QMainWindow和QWidget的区别
 https://blog.csdn.net/fukangwei_lite/article/details/118068072 QT定时器
 https://blog.csdn.net/qq_26549153/article/details/119971746 流程图各个形状
+http://www.sunhokey.com/page85?product_id=261 模组供应商
