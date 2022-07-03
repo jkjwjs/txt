@@ -135,4 +135,4 @@ https://blog.csdn.net/m0_51988927/article/details/122327638  QT--进度条
 https://blog.51cto.com/zhoufoxcn/4350898  Qt5.14.2MinGW-32静态编译及压缩过程配置教程
 https://blog.csdn.net/weixin_41573966/article/details/121494876  QT QTimer定时器和主线程之间的关系 
 https://blog.csdn.net/weixin_41573966/article/details/121494876       定时器与线程的区别 
- 
+https://blog.csdn.net/weixin_49730048/article/details/120791091                                               Qt 多线程基础及线程使用方式
