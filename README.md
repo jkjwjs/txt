@@ -133,3 +133,6 @@ https://blog.csdn.net/a1058191679/article/details/122729756 hex转Bin文件
 https://www.bilibili.com/read/cv16024963/   QT: Margin 设置，及centWidget的默认QLayout属性设置对于界面的影响
 https://blog.csdn.net/m0_51988927/article/details/122327638  QT--进度条
 https://blog.51cto.com/zhoufoxcn/4350898  Qt5.14.2MinGW-32静态编译及压缩过程配置教程
+https://blog.csdn.net/weixin_41573966/article/details/121494876  QT QTimer定时器和主线程之间的关系 
+https://blog.csdn.net/weixin_41573966/article/details/121494876       定时器与线程的区别 
+ 
