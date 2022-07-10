@@ -138,3 +138,4 @@ https://blog.csdn.net/weixin_41573966/article/details/121494876       定时器�
 https://blog.csdn.net/weixin_49730048/article/details/120791091        Qt 多线程基础及线程使用方式
 https://blog.csdn.net/weixin_40777510/article/details/110120990 rtmp时间戳pts、dts矫正解决卡顿快放慢放问题与倍速播放的实现
 https://blog.csdn.net/a745233700/article/details/120715371 什么是僵尸进程与孤儿进程
+https://blog.csdn.net/chirrupy_hamal/article/details/102824041 SIGCHILD信号
