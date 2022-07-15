@@ -140,3 +140,4 @@ https://blog.csdn.net/weixin_40777510/article/details/110120990 rtmp时间戳pts
 https://blog.csdn.net/a745233700/article/details/120715371 什么是僵尸进程与孤儿进程
 https://blog.csdn.net/chirrupy_hamal/article/details/102824041 SIGCHILD信号
 https://blog.csdn.net/weixin_60569662/article/details/123470220  Qt --- 内存回收机制
+https://blog.csdn.net/xi__q/article/details/88351754 processEvents()函数
