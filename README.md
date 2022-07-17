@@ -141,3 +141,4 @@ https://blog.csdn.net/a745233700/article/details/120715371 什么是僵尸进程
 https://blog.csdn.net/chirrupy_hamal/article/details/102824041 SIGCHILD信号
 https://blog.csdn.net/weixin_60569662/article/details/123470220  Qt --- 内存回收机制
 https://blog.csdn.net/xi__q/article/details/88351754 processEvents()函数
+https://www.freesion.com/article/29911399739/ 12.QT线程的两种启动方式
