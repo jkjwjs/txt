@@ -143,3 +143,4 @@ https://blog.csdn.net/weixin_60569662/article/details/123470220  Qt --- 内存�
 https://blog.csdn.net/xi__q/article/details/88351754 processEvents()函数
 https://www.freesion.com/article/29911399739/ 12.QT线程的两种启动方式
 https://blog.csdn.net/HanLongXia/article/details/119959394?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165815292216781647513583%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=165815292216781647513583&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-2-119959394-null-null.185^v2^tag_show&utm_term=%E5%88%87%E6%8D%A2&spm=1018.2226.3001.4450  72_Qt_切换两个页面【难点：主页面的两个槽函数的内容--旗子一个是【页面2】发送的信号、主页面的头文件需要定义好页面2的类指针变量】
+https://blog.csdn.net/lx123010/article/details/106530795 linux格式化sd卡，并进行挂载
