@@ -146,3 +146,4 @@ https://blog.csdn.net/HanLongXia/article/details/119959394?ops_request_misc=%257
 https://blog.csdn.net/lx123010/article/details/106530795 linux格式化sd卡，并进行挂载
 https://blog.csdn.net/qq_45507036/article/details/123375427 ESP32 Camera Driver
 https://blog.csdn.net/nchu_zhangyiqing/article/details/111871484 Qt简单的按钮槽函数传递参数方法
+https://copyfuture.com/blogs-details/20211206070236275B  从官方例程学习海思
