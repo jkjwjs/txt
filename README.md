@@ -147,3 +147,4 @@ https://blog.csdn.net/lx123010/article/details/106530795 linux格式化sd卡，�
 https://blog.csdn.net/qq_45507036/article/details/123375427 ESP32 Camera Driver
 https://blog.csdn.net/nchu_zhangyiqing/article/details/111871484 Qt简单的按钮槽函数传递参数方法
 https://copyfuture.com/blogs-details/20211206070236275B  从官方例程学习海思
+https://blog.csdn.net/Lxbbdxg/article/details/125254617 RK3399学习笔记 1.0.2---python环境 Firefly Core-3399pro-jd4 opencv调用gstreamer-rockchip使用mpp硬解码环境编译  
