@@ -148,4 +148,5 @@ https://blog.csdn.net/qq_45507036/article/details/123375427 ESP32 Camera Driver
 https://blog.csdn.net/nchu_zhangyiqing/article/details/111871484 Qt简单的按钮槽函数传递参数方法
 https://copyfuture.com/blogs-details/20211206070236275B  从官方例程学习海思
 https://blog.csdn.net/Lxbbdxg/article/details/125254617 RK3399学习笔记 1.0.2---python环境 Firefly Core-3399pro-jd4 opencv调用gstreamer-rockchip使用mpp硬解码环境编译  
-https://blog.csdn.net/midaszhk/article/details/124353091 一种简单的三角形纹理映射算法
+https://blog.csdn.net/midaszhk/article/details/124353091 一种简单的三角形纹理映射算法 自己写的话 先把每个3d模型文件格式搞懂 然后一步一步解析文件就好了 如果用开源库就是assimp 不过Autodesk的fbx模型比较封闭 得用他们家的sdk才可以解析
+
