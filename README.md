@@ -152,4 +152,4 @@ https://blog.csdn.net/midaszhk/article/details/124353091 一种简单的三角�
 https://blog.csdn.net/ljk1094123393/article/details/124801345 海思SD3403开发板学习（一）
 https://blog.csdn.net/with_dream/article/details/84928280 AVPacket详解
 https://blog.csdn.net/TABE_/article/details/123337735 阻塞IO和非阻塞IO（NIO）
-https://blog.csdn.net/q2519008/article/details/80934815 #、##、__VA_ARGS__和##__VA_ARGS__的作用
+https://www.codersrc.com/archives/9480.html #、##、__VA_ARGS__和##__VA_ARGS__的作用
