@@ -153,3 +153,4 @@ https://blog.csdn.net/ljk1094123393/article/details/124801345 海思SD3403开发
 https://blog.csdn.net/with_dream/article/details/84928280 AVPacket详解
 https://blog.csdn.net/TABE_/article/details/123337735 阻塞IO和非阻塞IO（NIO）
 https://www.codersrc.com/archives/9480.html #、##、__VA_ARGS__和##__VA_ARGS__的作用
+https://blog.csdn.net/weixin_46251230/article/details/126679956 STC打印字符串
