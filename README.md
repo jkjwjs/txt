@@ -155,3 +155,5 @@ https://blog.csdn.net/TABE_/article/details/123337735 阻塞IO和非阻塞IO（N
 https://www.codersrc.com/archives/9480.html #、##、__VA_ARGS__和##__VA_ARGS__的作用
 https://blog.csdn.net/weixin_46251230/article/details/126679956 STC打印字符串
 https://ffmpeg.xianwaizhiyin.net/ffplay/main.html ffmpeg教程
+https://zhuanlan.zhihu.com/p/463646711  STC单片机的特殊功能寄存（SFR）
+https://www.cnblogs.com/shiningrise/p/7906873.html STC单片机 IAP(EEPROM)的使用 
