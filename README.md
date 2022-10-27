@@ -157,3 +157,4 @@ https://blog.csdn.net/weixin_46251230/article/details/126679956 STC打印字符�
 https://ffmpeg.xianwaizhiyin.net/ffplay/main.html ffmpeg教程
 https://zhuanlan.zhihu.com/p/463646711  STC单片机的特殊功能寄存（SFR）
 https://www.cnblogs.com/shiningrise/p/7906873.html STC单片机 IAP(EEPROM)的使用 
+https://www.cnblogs.com/do-your-best/p/12058039.html epoll机制:epoll_create、epoll_ctl、epoll_wait、close
