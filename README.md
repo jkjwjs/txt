@@ -159,3 +159,5 @@ https://zhuanlan.zhihu.com/p/463646711  STC单片机的特殊功能寄存（SFR�
 https://www.cnblogs.com/shiningrise/p/7906873.html STC单片机 IAP(EEPROM)的使用 
 https://www.cnblogs.com/do-your-best/p/12058039.html epoll机制:epoll_create、epoll_ctl、epoll_wait、close
 https://blog.csdn.net/CenJuLong/article/details/116304524 51单片机外部中断的使用以及优先级设置
+https://blog.csdn.net/m0_46687001/article/details/126890097 使用51单片机模拟IIC从机，实现主机（51单片机）对模拟从机的读写操作
+https://blog.csdn.net/qq_26972441/article/details/122881656 I2C总结（单主机和多主机）
