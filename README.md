@@ -161,3 +161,4 @@ https://www.cnblogs.com/do-your-best/p/12058039.html epoll机制:epoll_create、
 https://blog.csdn.net/CenJuLong/article/details/116304524 51单片机外部中断的使用以及优先级设置
 https://blog.csdn.net/m0_46687001/article/details/126890097 使用51单片机模拟IIC从机，实现主机（51单片机）对模拟从机的读写操作
 https://blog.csdn.net/qq_26972441/article/details/122881656 I2C总结（单主机和多主机）
+https://blog.csdn.net/weixin_37366441/article/details/120262082?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-120262082-blog-53939416.pc_relevant_3mothn_strategy_recovery&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-120262082-blog-53939416.pc_relevant_3mothn_strategy_recovery&utm_relevant_index=1  I2C总线实战
