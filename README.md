@@ -163,3 +163,4 @@ https://blog.csdn.net/m0_46687001/article/details/126890097 使用51单片机模
 https://blog.csdn.net/qq_26972441/article/details/122881656 I2C总结（单主机和多主机）
 https://blog.csdn.net/weixin_37366441/article/details/120262082?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-120262082-blog-53939416.pc_relevant_3mothn_strategy_recovery&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-120262082-blog-53939416.pc_relevant_3mothn_strategy_recovery&utm_relevant_index=1  I2C总线实战
 https://blog.csdn.net/u012989012/article/details/80572043 makefile '@' '$' '$$' '-' '-n ' 使用小结
+https://zhuanlan.zhihu.com/p/415816638 shell 脚本中常用的内置变量
