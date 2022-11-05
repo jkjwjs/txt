@@ -168,3 +168,4 @@ https://blog.csdn.net/weixin_44330320/article/details/123241112 【海思AI芯�
 https://blog.csdn.net/GreedySnaker/article/details/118228552 shell脚本实现守护进程
 https://blog.csdn.net/u013015629/article/details/97279876?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166756374216782388013217%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166756374216782388013217&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-97279876-null-null.142   QT自动重启
 https://www.codenong.com/cs106391283/  基于海思平台与QT框架的高效视频显示
+https://blog.csdn.net/weixin_39912580/article/details/111742260 海思芯片怎么使用tde给qt加速_QT５在海思安防平台上的UI应用一些优化方法
