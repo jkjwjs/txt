@@ -171,3 +171,4 @@ https://www.codenong.com/cs106391283/  基于海思平台与QT框架的高效视
 https://blog.csdn.net/weixin_39912580/article/details/111742260 海思芯片怎么使用tde给qt加速_QT５在海思安防平台上的UI应用一些优化方法
 https://www.ebaina.com/questions/100000018124  TDE流程
 https://blog.csdn.net/jhting/article/details/78919165?spm=1001.2014.3001.5502  海思MPP业务MMZ内存优化介绍
+https://www.bilibili.com/read/cv17948824?spm_id_from=333.999.0.0 海思SDK学习
