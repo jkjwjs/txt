@@ -165,3 +165,4 @@ https://blog.csdn.net/weixin_37366441/article/details/120262082?spm=1001.2101.30
 https://blog.csdn.net/u012989012/article/details/80572043 makefile '@' '$' '$$' '-' '-n ' 使用小结
 https://zhuanlan.zhihu.com/p/415816638 shell 脚本中常用的内置变量
 https://blog.csdn.net/weixin_44330320/article/details/123241112 【海思AI芯片Hi3559A】学习笔记(2)：编译osdrv、单独编译uboot和kernel
+https://blog.csdn.net/GreedySnaker/article/details/118228552 shell脚本实现守护进程
