@@ -167,3 +167,4 @@ https://zhuanlan.zhihu.com/p/415816638 shell 脚本中常用的内置变量
 https://blog.csdn.net/weixin_44330320/article/details/123241112 【海思AI芯片Hi3559A】学习笔记(2)：编译osdrv、单独编译uboot和kernel
 https://blog.csdn.net/GreedySnaker/article/details/118228552 shell脚本实现守护进程
 https://blog.csdn.net/u013015629/article/details/97279876?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166756374216782388013217%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166756374216782388013217&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-97279876-null-null.142   QT自动重启
+https://www.codenong.com/cs106391283/  基于海思平台与QT框架的高效视频显示
