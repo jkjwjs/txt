@@ -174,3 +174,4 @@ https://blog.csdn.net/jhting/article/details/78919165?spm=1001.2014.3001.5502  �
 https://www.bilibili.com/read/cv17948824?spm_id_from=333.999.0.0 海思SDK学习
 https://blog.csdn.net/u010765526/article/details/101097345 进程间通讯IPC的几种方式的优缺点总结
 https://blog.csdn.net/ljsant/article/details/118341057 几种编译Opencv库的方法总结（亲测）
+https://www.modb.pro/db/175176   Ubuntu下安装OpenCV(三): CMake编译(下) 
