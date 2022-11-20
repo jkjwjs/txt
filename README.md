@@ -179,3 +179,4 @@ https://www.bbsmax.com/A/1O5EP6yaJ7/   从官方例程深度学习海思SDK及AP
 https://blog.csdn.net/qq_29350001/article/details/78179718?locationNum=1&fps=1 RTSP再学习 -- Hi3516A RTSP实例 分析
 https://zhuanlan.zhihu.com/p/385410196  深入浅出 Linux 惊群：现象、原因和解决方案
 https://www.cnblogs.com/harlanc/p/6838155.html 单元测试
+https://blog.csdn.net/whl0071/article/details/124154855 Qt__QWidget::update()与Qwidget::repaint()的区别
