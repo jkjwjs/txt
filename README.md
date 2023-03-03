@@ -181,3 +181,4 @@ https://zhuanlan.zhihu.com/p/385410196  深入浅出 Linux 惊群：现象、原
 https://www.cnblogs.com/harlanc/p/6838155.html 单元测试
 https://blog.csdn.net/whl0071/article/details/124154855 Qt__QWidget::update()与Qwidget::repaint()的区别
 https://blog.csdn.net/cfl927096306/article/details/95180940 嵌入式Linux利用udev实现自动检测挂载U盘
+https://blog.csdn.net/weixin_63726869/article/details/126641905 【STM32】LCD液晶显示
