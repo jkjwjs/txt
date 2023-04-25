@@ -183,3 +183,4 @@ https://blog.csdn.net/whl0071/article/details/124154855 Qt__QWidget::update()与
 https://blog.csdn.net/cfl927096306/article/details/95180940 嵌入式Linux利用udev实现自动检测挂载U盘
 https://blog.csdn.net/weixin_63726869/article/details/126641905   https://blog.csdn.net/weixin_46253745/article/details/127892756?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-127892756-blog-125264265.pc_relevant_3mothn_strategy_and_data_recovery&spm=1001.2101.3001.4242.1&utm_relevant_index=3  【STM32】LCD液晶显示
 https://www.cnblogs.com/yongdaimi/p/10647005.html 数字音视频技术: 谈谈 YUV的采样格式和存储格式 
+https://blog.csdn.net/u010299133/article/details/108034754 hi3559av100 mipi接口硬件lane的接法分布
